@@ -34,6 +34,7 @@ Your client SpaceY is creating a new AI system that tries to detect patterns in 
     ]
 
 Your function will need to generate data based on three different inputs:
+
     - idLength:number - how long should the "id" field be; how many numbers. IDs do not need to be unique.
     - startDate:string - the first date when your data should be created (from 00:00:00)
     - endDate:string - the last date when your data should be created (to 23:59:59)
