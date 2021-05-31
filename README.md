@@ -4,7 +4,7 @@ NOTE! Pay close attention to creating code with good and consistent code style.
 
 Solve each question in a new file; separate files for question1, question2 and question3.
 
-*NOTE* Before you start to work on each question, Add a comment where you write a work estimate; how long it will take you to solve each question.
+0. *NOTE* Before you start to actually work (code) on each question, make work estimates for each one; how long it will take you to solve each question.
 
 1. Make a function that works like this:
 
